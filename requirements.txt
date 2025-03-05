@@ -8,3 +8,5 @@ pyaudio
 soundfile
 SpeechRecognition
 SpeechRecognition[whisper-local]
+numpy
+mss
